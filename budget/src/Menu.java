@@ -59,6 +59,7 @@ public class Menu {
                     calculateSavings();
                     break;
                 case 7:
+                    System.out.println("Program closed");
                     System.exit(0);
                     break;
                 default:
