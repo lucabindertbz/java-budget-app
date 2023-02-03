@@ -15,7 +15,7 @@ public class Menu {
     }
 
     // Displays the main menu options
-    public void displayMenu() {
+    public void displayMenu() { 
         // Infinite loop for the menu
         while (true) {
             System.out.println("1. Add Income");
