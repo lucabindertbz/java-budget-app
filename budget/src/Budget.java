@@ -46,13 +46,13 @@ public class Budget {
     }
 
     //Methods
-    public double calculateBalance(){
-        return income - expenses;
-    }
-
-    public double calculateSavings(){
-        return income - expenses;
-    }
+//    public double calculateBalance(){
+//        return income - expenses;
+//    }
+//
+//    public double calculateSavings(){
+//        return income - expenses;
+//    }
 
     public void addIncome(Income income) {
         String category = income.getSource();
